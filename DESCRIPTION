@@ -9,8 +9,10 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: Code for labs 2025
+Description: Code for labs 2025.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
+URL: https://github.com/ohemmageee/MATH4753F25white
+BugReports: https://github.com/ohemmageee/MATH4753F25white/issues
