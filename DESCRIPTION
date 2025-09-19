@@ -1,0 +1,16 @@
+Package: MATH4753F25white
+Type: Package
+Title: Lab Code 2025
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Emma", "White",
+      email = "emma@emmagwhite.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Code for labs 2025
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
